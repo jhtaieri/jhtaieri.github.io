@@ -1,2 +1,2 @@
-# jhtaieri.github.io
-Bluzdy Fan Club source by Jack H. 
+# Bluzdy Fan Club source
+https://jhtaieri.github.io/
